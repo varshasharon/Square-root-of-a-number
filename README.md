@@ -16,7 +16,6 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```
-/*
 Program to find the square root for the given number(newton's method) using function.
 Developed by: E. VARSHA SHARON
 RegisterNumber:  22004867
@@ -30,12 +29,12 @@ def squareroot(a):
 a=int(input())
 squareroot(a)
 
-    
-*/
+
 ```
 
 ## Output:
-![square root]
+![square](https://user-images.githubusercontent.com/98278161/212606026-921fc615-abb3-4b42-ba69-1d6e1d47a7b0.png)
+
 
 
 ## Result:
